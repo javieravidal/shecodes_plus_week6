@@ -1,0 +1,54 @@
+body {
+  max-width: 100%;
+  display: block;
+  padding: 10px;
+  border-radius: 20px;
+}
+
+ul {
+  list-style-type: none;
+}
+
+.card-body {
+  text-align: center;
+  font-size: 30px;
+  background: rgb(18, 41, 80) 11.2%;
+}
+.city {
+  background: rgb(43, 43, 48);
+}
+
+.card {
+  display: block;
+  margin-top: 15px;
+  color: whitesmoke;
+  padding: 5px;
+  background: rgb(6, 19, 32) 91.1%;
+  border: 3px solid whitesmoke;
+  border-radius: 20px;
+}
+
+.maxT {
+  color: #ff7043;
+  text-align: center;
+}
+
+.minT {
+  color: #42a4f5;
+  text-align: center;
+}
+
+.icon {
+  text-align: center;
+  color: white;
+}
+
+.search-button {
+  background: #3185c9;
+  font-size: 25px;
+}
+
+.current-location-button {
+  background: #25c2a0;
+  font-size: 25px;
+}
